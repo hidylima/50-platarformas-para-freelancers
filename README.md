@@ -50,7 +50,7 @@
 - Vagas - https://www.vagas.com.br
 - VagasCG - https://vagascg.com.br
 - Vagas Comunicação - https://www.vagascomunicacao.com
-- VintePila - https://vinteconto.com.br/
+- VinteConto - https://vinteconto.com.br/
 - VintePila - https://www.vintepila.com.br/
 - WallJobs - https://www.walljobs.com.br/
 - WeDoLogos - https://www.wedologos.com.br
