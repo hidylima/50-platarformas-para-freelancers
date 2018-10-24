@@ -1,4 +1,4 @@
-## 50 Plataformas para Freelancers
+## 50 Plataformas para Freelancers / HomeOffice
 
 > Olá, pessoal! Aqui está o catálogo de plataformas para buscar jobs/freelancers. Quando quiser, pode sugerir adições com mais plataformas nesta lista a seguir.
 
