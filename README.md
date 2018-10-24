@@ -1,6 +1,6 @@
 ## 50 Plataformas para Freelancers / HomeOffice
 
-> Olá, pessoal! Aqui está o catálogo de plataformas para buscar jobs/freelancers. Quando quiser, pode sugerir adições com mais plataformas nesta lista a seguir.
+> Aqui está o catálogo de plataformas para buscar jobs/freelancers. Quando quiser, pode contribuir fazendo Pull Request adições com mais plataformas nesta lista a seguir.
 
 - 99Designs - https://99designs.com.br
 - 99Freelas - https://www.99freelas.com.br
